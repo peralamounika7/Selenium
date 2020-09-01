@@ -1,0 +1,8 @@
+<suite name="Primusbank">
+  <test name="SmokeTest" >
+    <classes>
+       <class name="com.selinium.testng.AnnaotationsTest"/>
+        <class name="com.selinium.testng.AnnotationsTest1"/>
+    </classes>
+  </test>
+  </suite>
